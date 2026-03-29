@@ -1,4 +1,5 @@
 #codsoft
+
 Project Title: Personal Portfolio Website
 This project is a Personal Portfolio Website developed using HTML5 and CSS3 to showcase my skills, projects, and contact information in a professional and visually appealing manner.
 The main purpose of this project is to create an online presence where I can present my work and provide easy access to my resume for recruiters and organizations.
