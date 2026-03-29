@@ -1,34 +1,40 @@
 #codsoft
-### 🧮 Calculator Web Application
+Project Title: Personal Portfolio Website
+This project is a Personal Portfolio Website developed using HTML5 and CSS3 to showcase my skills, projects, and contact information in a professional and visually appealing manner.
+The main purpose of this project is to create an online presence where I can present my work and provide easy access to my resume for recruiters and organizations.
 
-This project is a simple and responsive **Calculator Web Application** built using **HTML, CSS, and JavaScript**. It performs basic arithmetic operations such as addition, subtraction, multiplication, division, and percentage calculations.
+🎯 Objective
+The objective of this project is to:
+Build a responsive and user-friendly portfolio website
+Demonstrate basic web development skills using HTML and CSS
+Showcase personal projects and technical skills
+Provide a downloadable resume for professional use
 
-The user interface is designed with a modern and minimal layout, featuring interactive buttons and a display screen for input and output. The application captures user input through button clicks and dynamically updates the result using JavaScript.
+🛠️ Technologies Used
+HTML5 – For structuring the web pages
+CSS3 – For styling and layout design
 
-### 🚀 Features
+📌 Features of the Project
+🔹 1. Header Section
+Displays name and tagline
+Includes navigation menu for easy access
+🔹 2. About Section
+Contains personal introduction
+Includes profile image
+🔹 3. Skills Section
+Lists technical skills like HTML, CSS, JavaScript, Node.js, Python
+🔹 4. Projects Section
+Showcases projects such as:
+Portfolio Website
+E-commerce Website
+🔹 5. Resume Section
+Provides a link to download resume in PDF format
+🔹 6. Contact Section
+Displays email, phone number, and address
+🔹 7. Footerright information
 
-* Perform basic arithmetic operations (+, −, ×, ÷, %)
-* Clear all input using **AC** button
-* Delete last entered value using **DEL**
-* Responsive and user-friendly design
-* Real-time display of input and results
-* Error handling for invalid expressions
-
-### 🛠️ Technologies Used
-
-* **HTML** – Structure of the calculator
-* **CSS** – Styling and layout design
-* **JavaScript** – Logic and functionality
-
-### ⚙️ How It Works
-
-* User clicks buttons to enter numbers and operators
-* Input is displayed on the screen
-* When `=` is pressed, JavaScript evaluates the expression using `eval()`
-* The result is displayed instantly
-
-### 📂 Project Structure
-
-* `index.html` – Main structure
-* `style.css` – Styling file
-* `script.js` – Functional logic
+💡 Key Highlights
+Clean and simple UI design
+Easy navigation using anchor links
+Organized structure for better readability
+Beginner-friendly implementation
